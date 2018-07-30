@@ -1,3 +1,1 @@
-# profile
-# new-profile-page
-# new-profile-page
+![GitHub Logo](/pg-me.png)
